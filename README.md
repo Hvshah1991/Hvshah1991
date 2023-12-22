@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Shah</h1>
 <h3 align="center">Software Developer passionate about machine learning, NLP and deep learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hvshah1991" alt="hvshah1991" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_aiarxr" target="blank"><img src="https://img.shields.io/twitter/follow/_aiarxr?logo=twitter&style=for-the-badge" alt="_aiarxr" /></a> </p>
 
 - 🔭 I’m currently working on [Senti Messages](https://github.com/Hvshah1991/Senti-messages-app)
@@ -27,7 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/harshvshah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/harshvshah" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvshah1991&show_icons=true&locale=en&layout=compact" alt="hvshah1991" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvshah1991&show_icons=true&locale=en" alt="hvshah1991" /></p>
